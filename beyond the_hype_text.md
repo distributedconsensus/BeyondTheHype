@@ -1,13 +1,13 @@
-Beyond the hype
-Distributed consensus
+## Beyond the hype
+### Distributed consensus
 
-About
-Presentation on “Decentralised Marketplace”
-Problems
-What is decentralised marketplace on blockchain?
-Examples
+#### About
+- Presentation on “Decentralised Marketplace”
+- Problems
+- What is decentralised marketplace on blockchain?
+- Examples
 
-Marketplaces are..
+#### Marketplaces are..
 Two sided market where buyers meet sellers, sellers meet buyers. 
 For eg : “Alice wants to buy phone , she goes to amazon, where bob is selling phone via amazon.”
 Delivery of information products/services  where you get paid or pay someone.
